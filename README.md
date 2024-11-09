@@ -1,6 +1,6 @@
 - 👋 Hi, I’m varsith
 - 👀 I’m interested in gaming
-- 🌱 I’m currently learning javasritp
+- 🌱 I’m currently learning javascritp
 - 💞️ I’m looking to collaborate on bricklink
 - 📫 How to reach me, on README GitHub!
 <!---
